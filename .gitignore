@@ -1,0 +1,6 @@
+node_modules
+example/pdf
+.DS_Store
+Thumb.db
+.idea
+*.log*
